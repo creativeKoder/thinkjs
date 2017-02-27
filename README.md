@@ -7,8 +7,6 @@
 [![Coverage Status](https://img.shields.io/coveralls/thinkjs/thinkjs.svg?style=flat-square)](https://coveralls.io/github/thinkjs/thinkjs)
 [![Dependency Status](https://img.shields.io/david/thinkjs/thinkjs.svg?style=flat-square)](https://david-dm.org/thinkjs/thinkjs)
 
-[简体中文文档](https://github.com/thinkjs/thinkjs/blob/master/README_zh-CN.md)
-
 
 ## Introduction 
 
